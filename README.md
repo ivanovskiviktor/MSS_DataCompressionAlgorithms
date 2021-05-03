@@ -1,1 +1,1 @@
-# MSS_DataCompressionAlgorithms
+# MSS DataCompressionAlgorithms
